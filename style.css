@@ -218,3 +218,63 @@ text-decoration: none;
 
 
 /* madia section start */
+
+.container-madia{
+   /* background-color: #F95555; */
+   width: 70%;
+   height: 600px;
+   margin: 0 auto;
+   display: flex;
+   align-items: center;
+    
+}
+.text-contant {
+    /* background-color: #3b6b4f; */
+    padding-left: 60px;
+}
+    
+.text-contant .first-text {
+    /* background-color: red; */
+    font-size: 16px;
+    color: #469165;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.text-contant h1{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #001931;
+    
+}
+
+.text-contant .seacond-text{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.text-contant ul{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.text-contant ul li{
+   padding: 6px;
+   font-size: 16px;
+   line-height: 20px;
+   color: #001931;
+   gap: 6px;
+   
+}
+
+.text-contant ul li i{
+    color: #08ca59;
+    padding-right: 5px;
+}
+
+
+/* <!-- early access section start --> */
+
