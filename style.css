@@ -19,10 +19,7 @@ body{
  padding: 16px;
 }
 
-/* .navber .container .logo{
-    display: flex;
-    align-items: center;
-} */
+
 
 .navber .container .menu ul{
     display: flex;
@@ -34,14 +31,12 @@ body{
     font-size: 16px;
 }
 
-.menu ul li:hover{
 
-}
 
 .navber .container .btn{
-    background-color: #3b6b4f;
+    background-color: #469165;
     
-    padding: 16px 12px;
+    padding: 12px 16px;
     border-radius: 4px;
     
 
@@ -138,6 +133,7 @@ text-decoration: none;
     border-radius: 8px;
     color: #FFFFFF;
     border: 1px solid white;
+   margin-top: 2px;
     
 }
    /* hero section end */
@@ -331,3 +327,52 @@ text-decoration: none;
 }
 
 /* footar section start*/
+
+.social-kv{
+    background-color: #001931;
+       padding: 0 100px;
+    padding-top: 120px;
+   
+ 
+    
+    
+   
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+     padding-bottom: 50px;
+       
+}
+.social-area .social-link{
+font-size: 20px;
+line-height: 28px;
+color: #ffffffc4;
+
+}
+
+
+
+.social-area .icons-ig{
+padding-top: 9px;
+padding-left: 20px;
+}
+.social-area .icons-ig i{
+    background-color: #ffffffbb;
+    color: black;
+    border-radius: 500px;
+    
+    
+}
+
+
+.footer-bottom p{
+    text-align: center;
+    padding: 30px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.274);
+    color: #fafafac5;
+}
+
+
+/* footer end */
