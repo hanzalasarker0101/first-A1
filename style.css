@@ -61,7 +61,7 @@ text-decoration: none;
     justify-content: center;
     display: flex;
     text-align: center;
-    background-image: url(/assets/hero-bg.png);
+    background-image: url(./assets/hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     
